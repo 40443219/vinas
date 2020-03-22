@@ -1,5 +1,5 @@
 # vinas
-A web-based NAS system
+A web-based NAS system(developing)
 
 ## Server
 https://github.com/40443219/vinas_server
